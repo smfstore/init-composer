@@ -1,0 +1,19 @@
+{
+  "name": "smfstore/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/smfstore",
+  "keywords": ["smfstore", "init-composer"],
+  "support": {
+    "source": "https://github.com/smfstore/init-composer",
+    "issues": "https://github.com/smfstore/init-composer/issues",
+    "docs": "https://github.com/smfstore/init-composer/wiki",
+    "forum": "https://github.com/smfstore/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
